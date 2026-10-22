@@ -1,0 +1,3 @@
+Music by Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0 (creativecommons.org/licenses/by/4.0/)
+monkeys.mp3: Monkeys Spinning Monkeys. polka.mp3: Pixel Peeker Polka - faster. elevator.mp3: Local Forecast - Elevator. duck.mp3: Fluffing a Duck. funky.mp3: Funky Chunk.
+Re-encoded to mono 56 kbps.
